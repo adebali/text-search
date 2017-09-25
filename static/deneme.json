@@ -1,0 +1,39 @@
+[
+	{
+        "source": "BestRefSeq%2CGnomon",
+        "seqid": "NC_000001.11",
+        "end": 1216812,
+        "score": ".",
+        "start": 1211326,
+        "phase": ".",
+        "attributes": {
+            "gene": "TNFRSF4",
+            "description": "tumor necrosis factor receptor superfamily member 4",
+            "gene_synonym": [
+                "ACT35",
+                "CD134",
+                "IMD16",
+                "OX40",
+                "TXGP1L"
+            ],
+            "gbkey": "Gene",
+            "gene_biotype": "protein_coding",
+            "Dbxref": [
+                {
+                    "GeneID": "7293"
+                },
+                {
+                    "HGNC": "HGNC:11918"
+                },
+                {
+                    "HPRD": "02636"
+                },
+                {
+                    "MIM": "600315"
+                }
+            ],
+            "ID": "gene77",
+            "Name": "TNFRSF4"
+        }
+}
+]
